@@ -10,9 +10,9 @@ Certification and safety work across FCC, UL, IEC, and CE/RED schemes. Hands-on 
 
 ## Projects
 
-[![bess-safety-margin](https://github-readme-stats.vercel.app/api/pin/?username=tsadi&repo=bess-safety-margin&theme=transparent&title_color=5eead4&text_color=f5f7fa&bg_color=1a222e&border_color=2d3748&icon_color=5eead4)](https://github.com/tsadi/bess-safety-margin)
-[![robot-risk-register](https://github-readme-stats.vercel.app/api/pin/?username=tsadi&repo=robot-risk-register&theme=transparent&title_color=5eead4&text_color=f5f7fa&bg_color=1a222e&border_color=2d3748&icon_color=5eead4)](https://github.com/tsadi/robot-risk-register)
-[![compliance-gap-finder](https://github-readme-stats.vercel.app/api/pin/?username=tsadi&repo=compliance-gap-finder&theme=transparent&title_color=5eead4&text_color=f5f7fa&bg_color=1a222e&border_color=2d3748&icon_color=5eead4)](https://github.com/tsadi/compliance-gap-finder)
+[![bess-safety-margin](card-bess.svg)](https://github.com/tsadi/bess-safety-margin)
+[![robot-risk-register](card-robot.svg)](https://github.com/tsadi/robot-risk-register)
+[![compliance-gap-finder](card-compliance.svg)](https://github.com/tsadi/compliance-gap-finder)
 
 Every project above ships with tests, a documented methodology, and an explicit "what this is not" section. No fabricated numbers, no hardcoded pass/fail thresholds pretending to be standards text.
 
