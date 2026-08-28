@@ -2,7 +2,7 @@
 
 ![UL 1973](https://img.shields.io/badge/UL%201973-1a222e?style=flat-square) ![UL 9540A](https://img.shields.io/badge/UL%209540A-1a222e?style=flat-square) ![IEC 62619](https://img.shields.io/badge/IEC%2062619-1a222e?style=flat-square) ![UN 38.3](https://img.shields.io/badge/UN%2038.3-1a222e?style=flat-square) ![FCC](https://img.shields.io/badge/FCC-1a222e?style=flat-square) ![CE/RED](https://img.shields.io/badge/CE%2FRED-1a222e?style=flat-square) ![Python](https://img.shields.io/badge/Python-1a222e?style=flat-square&logo=python&logoColor=5eead4) ![LinkedIn 6000+ members](https://img.shields.io/badge/LinkedIn-6%2C000%2B_members-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-Product Compliance & Safety Executive with about two decades of certification and safety engineering experience across EV battery systems, BESS, and robotics hardware. Now building the tooling that makes that work faster and harder to get wrong.
+Product Compliance & Safety Executive with about two decades of certification, safety engineering, and safety-operations experience across EV battery systems, BESS, and robotics/robot-fleet hardware. Now building the tooling that turns that experience into live operational safety practice: fleet risk monitoring, incident tracking, and deployment-readiness checks, not just paper certification.
 
 ## Background
 
