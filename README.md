@@ -13,6 +13,8 @@ Certification and safety work across FCC, UL, IEC, and CE/RED schemes. Hands-on 
 [![bess-safety-margin](card-bess.svg)](https://github.com/tsadi/bess-safety-margin)
 [![robot-risk-register](card-robot.svg)](https://github.com/tsadi/robot-risk-register)
 [![compliance-gap-finder](card-compliance.svg)](https://github.com/tsadi/compliance-gap-finder)
+[![ssm-safety-envelope](card-ssm.svg)](https://github.com/tsadi/ssm-safety-envelope)
+[![fleet-incident-tracker](card-fleet.svg)](https://github.com/tsadi/fleet-incident-tracker)
 
 Every project above ships with tests, a documented methodology, and an explicit "what this is not" section. No fabricated numbers, no hardcoded pass/fail thresholds pretending to be standards text.
 
