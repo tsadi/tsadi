@@ -15,6 +15,10 @@ Certification and safety work across FCC, UL, IEC, and CE/RED schemes. Hands-on 
 [![compliance-gap-finder](card-compliance.svg)](https://github.com/tsadi/compliance-gap-finder)
 [![ssm-safety-envelope](card-ssm.svg)](https://github.com/tsadi/ssm-safety-envelope)
 [![fleet-incident-tracker](card-fleet.svg)](https://github.com/tsadi/fleet-incident-tracker)
+[![recall-radar](card-recall.svg)](https://github.com/tsadi/recall-radar)
+[![iso13849-pl-calc](card-iso13849.svg)](https://github.com/tsadi/iso13849-pl-calc)
+[![ieee1547-settings-check](card-ieee1547.svg)](https://github.com/tsadi/ieee1547-settings-check)
+[![cert-path-planner](card-certpath.svg)](https://github.com/tsadi/cert-path-planner)
 
 Every project above ships with tests, a documented methodology, and an explicit "what this is not" section. No fabricated numbers, no hardcoded pass/fail thresholds pretending to be standards text.
 
