@@ -10,7 +10,6 @@ Certification and safety work across FCC, UL, IEC, and CE/RED schemes. Hands-on 
 
 ## Projects
 
-[![worldsim-guard](card-worldsim.svg)](https://github.com/tsadi/worldsim-guard)
 [![bess-safety-margin](card-bess.svg)](https://github.com/tsadi/bess-safety-margin)
 [![robot-risk-register](card-robot.svg)](https://github.com/tsadi/robot-risk-register)
 [![compliance-gap-finder](card-compliance.svg)](https://github.com/tsadi/compliance-gap-finder)
